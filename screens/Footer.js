@@ -23,6 +23,7 @@ class Footer extends React.Component {
     );
   }
 }
+//teste
 
 const styles = StyleSheet.create({
   footer: {
